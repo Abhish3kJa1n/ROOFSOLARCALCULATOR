@@ -1,0 +1,32 @@
+Build a complete, production-ready, multi-file programmatic web application for a US-targeted home improvement calculator asset. 
+
+The project must be built as a scalable Static Site Generator / Framework (such as Astro or Next.js) utilizing dynamic routing and a modular multi-folder structure to automatically handle thousands of localized US city landing pages.
+
+### 1. Niche & Monetization Strategy (Context):
+- Niche: US Residential Roof Replacement & Solar ROI Estimator.
+- Revenue Model: Optimized for high-CPC US contractor bidding (Roofing & Solar verticals average $15 to $65+ CPCs). 
+- Engagement Mechanics: Built to anchor users for 3+ minutes via live interactive calculation sliders, triggering compliant 30-second AdSense Active View impressions and maximizing session dwell time.
+
+### 2. Project Architecture & Multi-Folder Structure:
+- Framework: Use a modern multi-file structure with component-based UI, dynamic routing (e.g., dynamic city slugs), and a dedicated data directory (`/data` or `/content`) holding a sample JSON/CSV dataset of high-income US cities (e.g., Austin, Denver, Phoenix, Charlotte, Seattle) with fields for:
+  * city_slug, city, state, state_code, avg_electric_bill, labor_rate_index, local_utility_name, and solar_sun_hours.
+- Dynamic Template Injection: The main calculator page template must dynamically read from this dataset so that the H1 title, local utility name, default electric bill slider position, and labor multipliers update automatically per city route.
+
+### 3. Design System & Responsive Layout:
+- Styling: Tailwind CSS.
+- Color Palette & Typography: Inter font family, trust-based blue primary (#1D4ED8), success-based emerald green accents (#059669), and a slate background canvas (#F8FAFC).
+- Grid Architecture: 12-column desktop layout featuring an 8-column interactive calculation wizard and a 4-column sticky sidebar ad rail. Completely responsive and collapsing into a clean single-column stack on mobile devices.
+
+### 4. Interactive Calculator Engine (Live JavaScript Logic):
+- Roof Area Slider: Range from 1,000 to 5,000 sq ft, updating calculations live.
+- Material Grade Selection Buttons: Toggle between Asphalt Shingle ($$ / sq ft), Standing Seam Metal ($$$ / sq ft), and Tile/Slate ($$$$ / sq ft).
+- Monthly Electric Bill Slider: Range from $80 to $600 / mo to calculate solar array sizing.
+- Dynamic Results Dashboard: Real-time calculation output cards displaying Estimated Roof Cost, Net Solar System Cost (automatically deducting the 30% Federal Investment Tax Credit - ITC), and 25-Year Cumulative Utility Savings.
+
+### 5. AdSense Infrastructure & Zero-CLS Placeholders:
+- Desktop sticky right-rail container pre-formatted with strict height wrappers for a 300x600 half-page display ad unit.
+- Responsive in-feed native ad slot positioned directly below the calculation results.
+- All ad containers must enforce strict height wrappers to completely eliminate Cumulative Layout Shift (CLS).
+
+### 6. SEO & Long-Form Content:
+- Include expert technical breakdowns and structured FAQs addressing 2026 federal tax credits, regional building codes, and net metering to maximize organic search indexing and dwell time.

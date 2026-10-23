@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Roof Replacement & Solar ROI Estimator | Meridian Estimate",
+      "hasCanvas": false,
+      "bodyTextLen": 4053,
+      "bodyTextHash": "aa0399d9b285f98a3aa631c17d93aa40469a044673bf416c462f8e624f95bd2c",
+      "bodyTextPrefix": "Skip to content M Meridian Estimate Estimator Cities Roof replac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Roof Replacement & Solar ROI Estimator | Meridian Estimate",
+      "hasCanvas": false,
+      "bodyTextLen": 4066,
+      "bodyTextHash": "0d4ff3527e5c740eb4084c92de7ea9bd4eaa1d530cf7bd559990533c0073c75a",
+      "bodyTextPrefix": "Skip to content M Meridian Estimate Estimator Cities Roof replac",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

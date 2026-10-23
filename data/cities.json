@@ -1,0 +1,1292 @@
+[
+  {
+    "city_slug": "austin-tx",
+    "city": "Austin",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "Austin Energy",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "plano-tx",
+    "city": "Plano",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 172,
+    "labor_rate_index": 1.03,
+    "local_utility_name": "Oncor delivery area",
+    "solar_sun_hours": 5.05
+  },
+  {
+    "city_slug": "frisco-tx",
+    "city": "Frisco",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 170,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "Oncor delivery area",
+    "solar_sun_hours": 5.02
+  },
+  {
+    "city_slug": "dallas-tx",
+    "city": "Dallas",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 170,
+    "labor_rate_index": 1.01,
+    "local_utility_name": "Oncor delivery area",
+    "solar_sun_hours": 5
+  },
+  {
+    "city_slug": "fort-worth-tx",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 0.99,
+    "local_utility_name": "Oncor delivery area",
+    "solar_sun_hours": 5.05
+  },
+  {
+    "city_slug": "houston-tx",
+    "city": "Houston",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 176,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "CenterPoint delivery area",
+    "solar_sun_hours": 4.65
+  },
+  {
+    "city_slug": "sugar-land-tx",
+    "city": "Sugar Land",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 178,
+    "labor_rate_index": 1.05,
+    "local_utility_name": "CenterPoint delivery area",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "the-woodlands-tx",
+    "city": "The Woodlands",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 180,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "Entergy Texas",
+    "solar_sun_hours": 4.68
+  },
+  {
+    "city_slug": "san-antonio-tx",
+    "city": "San Antonio",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 156,
+    "labor_rate_index": 0.95,
+    "local_utility_name": "CPS Energy",
+    "solar_sun_hours": 5.3
+  },
+  {
+    "city_slug": "el-paso-tx",
+    "city": "El Paso",
+    "state": "Texas",
+    "state_code": "TX",
+    "avg_electric_bill": 142,
+    "labor_rate_index": 0.9,
+    "local_utility_name": "El Paso Electric",
+    "solar_sun_hours": 6.3
+  },
+  {
+    "city_slug": "denver-co",
+    "city": "Denver",
+    "state": "Colorado",
+    "state_code": "CO",
+    "avg_electric_bill": 142,
+    "labor_rate_index": 1.14,
+    "local_utility_name": "Xcel Energy",
+    "solar_sun_hours": 5.45
+  },
+  {
+    "city_slug": "boulder-co",
+    "city": "Boulder",
+    "state": "Colorado",
+    "state_code": "CO",
+    "avg_electric_bill": 138,
+    "labor_rate_index": 1.16,
+    "local_utility_name": "Xcel Energy",
+    "solar_sun_hours": 5.3
+  },
+  {
+    "city_slug": "colorado-springs-co",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "state_code": "CO",
+    "avg_electric_bill": 132,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "Colorado Springs Utilities",
+    "solar_sun_hours": 5.6
+  },
+  {
+    "city_slug": "fort-collins-co",
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "state_code": "CO",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "Fort Collins Utilities",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "aspen-co",
+    "city": "Aspen",
+    "state": "Colorado",
+    "state_code": "CO",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 1.28,
+    "local_utility_name": "Holy Cross Energy",
+    "solar_sun_hours": 5.15
+  },
+  {
+    "city_slug": "phoenix-az",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 178,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Arizona Public Service",
+    "solar_sun_hours": 6.55
+  },
+  {
+    "city_slug": "scottsdale-az",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 186,
+    "labor_rate_index": 1.05,
+    "local_utility_name": "Arizona Public Service",
+    "solar_sun_hours": 6.5
+  },
+  {
+    "city_slug": "mesa-az",
+    "city": "Mesa",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 174,
+    "labor_rate_index": 0.97,
+    "local_utility_name": "Salt River Project",
+    "solar_sun_hours": 6.5
+  },
+  {
+    "city_slug": "gilbert-az",
+    "city": "Gilbert",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 176,
+    "labor_rate_index": 0.99,
+    "local_utility_name": "Salt River Project",
+    "solar_sun_hours": 6.48
+  },
+  {
+    "city_slug": "chandler-az",
+    "city": "Chandler",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 172,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Salt River Project",
+    "solar_sun_hours": 6.48
+  },
+  {
+    "city_slug": "tucson-az",
+    "city": "Tucson",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "Tucson Electric Power",
+    "solar_sun_hours": 6.5
+  },
+  {
+    "city_slug": "flagstaff-az",
+    "city": "Flagstaff",
+    "state": "Arizona",
+    "state_code": "AZ",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1,
+    "local_utility_name": "Arizona Public Service",
+    "solar_sun_hours": 6.1
+  },
+  {
+    "city_slug": "charlotte-nc",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "avg_electric_bill": 148,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "Duke Energy Carolinas",
+    "solar_sun_hours": 4.85
+  },
+  {
+    "city_slug": "raleigh-nc",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "avg_electric_bill": 146,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Duke Energy Progress",
+    "solar_sun_hours": 4.75
+  },
+  {
+    "city_slug": "durham-nc",
+    "city": "Durham",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "avg_electric_bill": 144,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Duke Energy Progress",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "asheville-nc",
+    "city": "Asheville",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Duke Energy Progress",
+    "solar_sun_hours": 4.45
+  },
+  {
+    "city_slug": "wilmington-nc",
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "state_code": "NC",
+    "avg_electric_bill": 150,
+    "labor_rate_index": 0.95,
+    "local_utility_name": "Duke Energy Progress",
+    "solar_sun_hours": 4.8
+  },
+  {
+    "city_slug": "seattle-wa",
+    "city": "Seattle",
+    "state": "Washington",
+    "state_code": "WA",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 1.32,
+    "local_utility_name": "Seattle City Light",
+    "solar_sun_hours": 3.65
+  },
+  {
+    "city_slug": "bellevue-wa",
+    "city": "Bellevue",
+    "state": "Washington",
+    "state_code": "WA",
+    "avg_electric_bill": 124,
+    "labor_rate_index": 1.34,
+    "local_utility_name": "Puget Sound Energy",
+    "solar_sun_hours": 3.55
+  },
+  {
+    "city_slug": "tacoma-wa",
+    "city": "Tacoma",
+    "state": "Washington",
+    "state_code": "WA",
+    "avg_electric_bill": 108,
+    "labor_rate_index": 1.14,
+    "local_utility_name": "Tacoma Power",
+    "solar_sun_hours": 3.5
+  },
+  {
+    "city_slug": "spokane-wa",
+    "city": "Spokane",
+    "state": "Washington",
+    "state_code": "WA",
+    "avg_electric_bill": 112,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "Avista Utilities",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "san-jose-ca",
+    "city": "San Jose",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 214,
+    "labor_rate_index": 1.48,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.35
+  },
+  {
+    "city_slug": "palo-alto-ca",
+    "city": "Palo Alto",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 142,
+    "labor_rate_index": 1.52,
+    "local_utility_name": "City of Palo Alto Utilities",
+    "solar_sun_hours": 5.2
+  },
+  {
+    "city_slug": "sunnyvale-ca",
+    "city": "Sunnyvale",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 196,
+    "labor_rate_index": 1.46,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.3
+  },
+  {
+    "city_slug": "fremont-ca",
+    "city": "Fremont",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 190,
+    "labor_rate_index": 1.42,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "san-francisco-ca",
+    "city": "San Francisco",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 1.55,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 4.85
+  },
+  {
+    "city_slug": "oakland-ca",
+    "city": "Oakland",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 186,
+    "labor_rate_index": 1.46,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.1
+  },
+  {
+    "city_slug": "walnut-creek-ca",
+    "city": "Walnut Creek",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 184,
+    "labor_rate_index": 1.4,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.15
+  },
+  {
+    "city_slug": "sacramento-ca",
+    "city": "Sacramento",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 162,
+    "labor_rate_index": 1.16,
+    "local_utility_name": "SMUD",
+    "solar_sun_hours": 5.4
+  },
+  {
+    "city_slug": "fresno-ca",
+    "city": "Fresno",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 210,
+    "labor_rate_index": 1.1,
+    "local_utility_name": "Pacific Gas & Electric",
+    "solar_sun_hours": 5.85
+  },
+  {
+    "city_slug": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 176,
+    "labor_rate_index": 1.26,
+    "local_utility_name": "Los Angeles Department of Water and Power",
+    "solar_sun_hours": 5.65
+  },
+  {
+    "city_slug": "pasadena-ca",
+    "city": "Pasadena",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 170,
+    "labor_rate_index": 1.24,
+    "local_utility_name": "Pasadena Water and Power",
+    "solar_sun_hours": 5.7
+  },
+  {
+    "city_slug": "irvine-ca",
+    "city": "Irvine",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 198,
+    "labor_rate_index": 1.28,
+    "local_utility_name": "Southern California Edison",
+    "solar_sun_hours": 5.7
+  },
+  {
+    "city_slug": "temecula-ca",
+    "city": "Temecula",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 192,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "Southern California Edison",
+    "solar_sun_hours": 5.8
+  },
+  {
+    "city_slug": "san-diego-ca",
+    "city": "San Diego",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 188,
+    "labor_rate_index": 1.24,
+    "local_utility_name": "San Diego Gas & Electric",
+    "solar_sun_hours": 5.75
+  },
+  {
+    "city_slug": "carlsbad-ca",
+    "city": "Carlsbad",
+    "state": "California",
+    "state_code": "CA",
+    "avg_electric_bill": 186,
+    "labor_rate_index": 1.22,
+    "local_utility_name": "San Diego Gas & Electric",
+    "solar_sun_hours": 5.7
+  },
+  {
+    "city_slug": "nashville-tn",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "state_code": "TN",
+    "avg_electric_bill": 152,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Nashville Electric Service",
+    "solar_sun_hours": 4.55
+  },
+  {
+    "city_slug": "memphis-tn",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "state_code": "TN",
+    "avg_electric_bill": 150,
+    "labor_rate_index": 0.92,
+    "local_utility_name": "Memphis Light, Gas and Water",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "knoxville-tn",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "state_code": "TN",
+    "avg_electric_bill": 138,
+    "labor_rate_index": 0.9,
+    "local_utility_name": "Knoxville Utilities Board",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "atlanta-ga",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "state_code": "GA",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 0.97,
+    "local_utility_name": "Georgia Power",
+    "solar_sun_hours": 4.95
+  },
+  {
+    "city_slug": "savannah-ga",
+    "city": "Savannah",
+    "state": "Georgia",
+    "state_code": "GA",
+    "avg_electric_bill": 160,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "Georgia Power",
+    "solar_sun_hours": 4.9
+  },
+  {
+    "city_slug": "miami-fl",
+    "city": "Miami",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 172,
+    "labor_rate_index": 1.1,
+    "local_utility_name": "Florida Power & Light",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "naples-fl",
+    "city": "Naples",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 176,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "Florida Power & Light",
+    "solar_sun_hours": 5.35
+  },
+  {
+    "city_slug": "tampa-fl",
+    "city": "Tampa",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 164,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "Tampa Electric",
+    "solar_sun_hours": 5.3
+  },
+  {
+    "city_slug": "orlando-fl",
+    "city": "Orlando",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 166,
+    "labor_rate_index": 1,
+    "local_utility_name": "Duke Energy Florida",
+    "solar_sun_hours": 5.15
+  },
+  {
+    "city_slug": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "JEA",
+    "solar_sun_hours": 5.05
+  },
+  {
+    "city_slug": "sarasota-fl",
+    "city": "Sarasota",
+    "state": "Florida",
+    "state_code": "FL",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "Florida Power & Light",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "chicago-il",
+    "city": "Chicago",
+    "state": "Illinois",
+    "state_code": "IL",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1.28,
+    "local_utility_name": "Commonwealth Edison",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "naperville-il",
+    "city": "Naperville",
+    "state": "Illinois",
+    "state_code": "IL",
+    "avg_electric_bill": 134,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "City of Naperville Electric Utility",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "minneapolis-mn",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "state_code": "MN",
+    "avg_electric_bill": 126,
+    "labor_rate_index": 1.12,
+    "local_utility_name": "Xcel Energy",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "boston-ma",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "state_code": "MA",
+    "avg_electric_bill": 188,
+    "labor_rate_index": 1.38,
+    "local_utility_name": "Eversource",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "cambridge-ma",
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "state_code": "MA",
+    "avg_electric_bill": 176,
+    "labor_rate_index": 1.4,
+    "local_utility_name": "Eversource",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "new-york-ny",
+    "city": "New York",
+    "state": "New York",
+    "state_code": "NY",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 1.62,
+    "local_utility_name": "Consolidated Edison",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "white-plains-ny",
+    "city": "White Plains",
+    "state": "New York",
+    "state_code": "NY",
+    "avg_electric_bill": 188,
+    "labor_rate_index": 1.4,
+    "local_utility_name": "Consolidated Edison",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "albany-ny",
+    "city": "Albany",
+    "state": "New York",
+    "state_code": "NY",
+    "avg_electric_bill": 142,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "National Grid",
+    "solar_sun_hours": 3.95
+  },
+  {
+    "city_slug": "buffalo-ny",
+    "city": "Buffalo",
+    "state": "New York",
+    "state_code": "NY",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "National Grid",
+    "solar_sun_hours": 3.8
+  },
+  {
+    "city_slug": "rochester-ny",
+    "city": "Rochester",
+    "state": "New York",
+    "state_code": "NY",
+    "avg_electric_bill": 126,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "Rochester Gas & Electric",
+    "solar_sun_hours": 3.85
+  },
+  {
+    "city_slug": "philadelphia-pa",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "avg_electric_bill": 152,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "PECO",
+    "solar_sun_hours": 4.35
+  },
+  {
+    "city_slug": "pittsburgh-pa",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "state_code": "PA",
+    "avg_electric_bill": 140,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "Duquesne Light",
+    "solar_sun_hours": 3.9
+  },
+  {
+    "city_slug": "washington-dc",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "state_code": "DC",
+    "avg_electric_bill": 148,
+    "labor_rate_index": 1.24,
+    "local_utility_name": "Pepco",
+    "solar_sun_hours": 4.45
+  },
+  {
+    "city_slug": "arlington-va",
+    "city": "Arlington",
+    "state": "Virginia",
+    "state_code": "VA",
+    "avg_electric_bill": 156,
+    "labor_rate_index": 1.22,
+    "local_utility_name": "Dominion Energy",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "alexandria-va",
+    "city": "Alexandria",
+    "state": "Virginia",
+    "state_code": "VA",
+    "avg_electric_bill": 154,
+    "labor_rate_index": 1.2,
+    "local_utility_name": "Dominion Energy",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "richmond-va",
+    "city": "Richmond",
+    "state": "Virginia",
+    "state_code": "VA",
+    "avg_electric_bill": 148,
+    "labor_rate_index": 0.97,
+    "local_utility_name": "Dominion Energy",
+    "solar_sun_hours": 4.5
+  },
+  {
+    "city_slug": "virginia-beach-va",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "state_code": "VA",
+    "avg_electric_bill": 154,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Dominion Energy",
+    "solar_sun_hours": 4.6
+  },
+  {
+    "city_slug": "fairfax-va",
+    "city": "Fairfax",
+    "state": "Virginia",
+    "state_code": "VA",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "Dominion Energy",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "baltimore-md",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "state_code": "MD",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 1.1,
+    "local_utility_name": "Baltimore Gas and Electric",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "bethesda-md",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "state_code": "MD",
+    "avg_electric_bill": 164,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "Pepco",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "detroit-mi",
+    "city": "Detroit",
+    "state": "Michigan",
+    "state_code": "MI",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "DTE Energy",
+    "solar_sun_hours": 4
+  },
+  {
+    "city_slug": "ann-arbor-mi",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "state_code": "MI",
+    "avg_electric_bill": 132,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "DTE Energy",
+    "solar_sun_hours": 3.95
+  },
+  {
+    "city_slug": "grand-rapids-mi",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "state_code": "MI",
+    "avg_electric_bill": 130,
+    "labor_rate_index": 1,
+    "local_utility_name": "Consumers Energy",
+    "solar_sun_hours": 3.95
+  },
+  {
+    "city_slug": "columbus-oh",
+    "city": "Columbus",
+    "state": "Ohio",
+    "state_code": "OH",
+    "avg_electric_bill": 138,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "AEP Ohio",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "cleveland-oh",
+    "city": "Cleveland",
+    "state": "Ohio",
+    "state_code": "OH",
+    "avg_electric_bill": 134,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "The Illuminating Company",
+    "solar_sun_hours": 3.9
+  },
+  {
+    "city_slug": "cincinnati-oh",
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "state_code": "OH",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 0.99,
+    "local_utility_name": "Duke Energy Ohio",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "indianapolis-in",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "state_code": "IN",
+    "avg_electric_bill": 140,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "AES Indiana",
+    "solar_sun_hours": 4.25
+  },
+  {
+    "city_slug": "st-louis-mo",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "state_code": "MO",
+    "avg_electric_bill": 144,
+    "labor_rate_index": 1,
+    "local_utility_name": "Ameren Missouri",
+    "solar_sun_hours": 4.5
+  },
+  {
+    "city_slug": "kansas-city-mo",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "state_code": "MO",
+    "avg_electric_bill": 146,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Evergy",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "omaha-ne",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "state_code": "NE",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Omaha Public Power District",
+    "solar_sun_hours": 4.65
+  },
+  {
+    "city_slug": "lincoln-ne",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "state_code": "NE",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "Lincoln Electric System",
+    "solar_sun_hours": 4.6
+  },
+  {
+    "city_slug": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "state_code": "UT",
+    "avg_electric_bill": 112,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "Rocky Mountain Power",
+    "solar_sun_hours": 5.25
+  },
+  {
+    "city_slug": "park-city-ut",
+    "city": "Park City",
+    "state": "Utah",
+    "state_code": "UT",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 1.16,
+    "local_utility_name": "Rocky Mountain Power",
+    "solar_sun_hours": 5.1
+  },
+  {
+    "city_slug": "provo-ut",
+    "city": "Provo",
+    "state": "Utah",
+    "state_code": "UT",
+    "avg_electric_bill": 104,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Rocky Mountain Power",
+    "solar_sun_hours": 5.2
+  },
+  {
+    "city_slug": "boise-id",
+    "city": "Boise",
+    "state": "Idaho",
+    "state_code": "ID",
+    "avg_electric_bill": 108,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "Idaho Power",
+    "solar_sun_hours": 4.9
+  },
+  {
+    "city_slug": "las-vegas-nv",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "state_code": "NV",
+    "avg_electric_bill": 174,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "NV Energy",
+    "solar_sun_hours": 6.4
+  },
+  {
+    "city_slug": "henderson-nv",
+    "city": "Henderson",
+    "state": "Nevada",
+    "state_code": "NV",
+    "avg_electric_bill": 170,
+    "labor_rate_index": 1.04,
+    "local_utility_name": "NV Energy",
+    "solar_sun_hours": 6.35
+  },
+  {
+    "city_slug": "reno-nv",
+    "city": "Reno",
+    "state": "Nevada",
+    "state_code": "NV",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "NV Energy",
+    "solar_sun_hours": 5.55
+  },
+  {
+    "city_slug": "albuquerque-nm",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "state_code": "NM",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 0.94,
+    "local_utility_name": "Public Service Company of New Mexico",
+    "solar_sun_hours": 6.35
+  },
+  {
+    "city_slug": "santa-fe-nm",
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "state_code": "NM",
+    "avg_electric_bill": 116,
+    "labor_rate_index": 1.02,
+    "local_utility_name": "Public Service Company of New Mexico",
+    "solar_sun_hours": 6.2
+  },
+  {
+    "city_slug": "oklahoma-city-ok",
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "state_code": "OK",
+    "avg_electric_bill": 148,
+    "labor_rate_index": 0.9,
+    "local_utility_name": "OG&E",
+    "solar_sun_hours": 5.15
+  },
+  {
+    "city_slug": "tulsa-ok",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "state_code": "OK",
+    "avg_electric_bill": 146,
+    "labor_rate_index": 0.89,
+    "local_utility_name": "Public Service Company of Oklahoma",
+    "solar_sun_hours": 4.9
+  },
+  {
+    "city_slug": "louisville-ky",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "state_code": "KY",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 0.93,
+    "local_utility_name": "LG&E",
+    "solar_sun_hours": 4.35
+  },
+  {
+    "city_slug": "lexington-ky",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "state_code": "KY",
+    "avg_electric_bill": 132,
+    "labor_rate_index": 0.92,
+    "local_utility_name": "Kentucky Utilities",
+    "solar_sun_hours": 4.3
+  },
+  {
+    "city_slug": "charleston-sc",
+    "city": "Charleston",
+    "state": "South Carolina",
+    "state_code": "SC",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Dominion Energy South Carolina",
+    "solar_sun_hours": 4.9
+  },
+  {
+    "city_slug": "greenville-sc",
+    "city": "Greenville",
+    "state": "South Carolina",
+    "state_code": "SC",
+    "avg_electric_bill": 146,
+    "labor_rate_index": 0.92,
+    "local_utility_name": "Duke Energy Carolinas",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "birmingham-al",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "state_code": "AL",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 0.9,
+    "local_utility_name": "Alabama Power",
+    "solar_sun_hours": 4.75
+  },
+  {
+    "city_slug": "new-orleans-la",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "state_code": "LA",
+    "avg_electric_bill": 154,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Entergy New Orleans",
+    "solar_sun_hours": 4.8
+  },
+  {
+    "city_slug": "baton-rouge-la",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "state_code": "LA",
+    "avg_electric_bill": 156,
+    "labor_rate_index": 0.92,
+    "local_utility_name": "Entergy Louisiana",
+    "solar_sun_hours": 4.75
+  },
+  {
+    "city_slug": "milwaukee-wi",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "avg_electric_bill": 124,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "We Energies",
+    "solar_sun_hours": 4.1
+  },
+  {
+    "city_slug": "madison-wi",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "state_code": "WI",
+    "avg_electric_bill": 122,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "Madison Gas and Electric",
+    "solar_sun_hours": 4.05
+  },
+  {
+    "city_slug": "portland-or",
+    "city": "Portland",
+    "state": "Oregon",
+    "state_code": "OR",
+    "avg_electric_bill": 122,
+    "labor_rate_index": 1.18,
+    "local_utility_name": "Portland General Electric",
+    "solar_sun_hours": 3.75
+  },
+  {
+    "city_slug": "bend-or",
+    "city": "Bend",
+    "state": "Oregon",
+    "state_code": "OR",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 1.06,
+    "local_utility_name": "Pacific Power",
+    "solar_sun_hours": 4.6
+  },
+  {
+    "city_slug": "honolulu-hi",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "state_code": "HI",
+    "avg_electric_bill": 248,
+    "labor_rate_index": 1.36,
+    "local_utility_name": "Hawaiian Electric",
+    "solar_sun_hours": 5.6
+  },
+  {
+    "city_slug": "anchorage-ak",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "state_code": "AK",
+    "avg_electric_bill": 136,
+    "labor_rate_index": 1.22,
+    "local_utility_name": "Chugach Electric",
+    "solar_sun_hours": 3.1
+  },
+  {
+    "city_slug": "newark-nj",
+    "city": "Newark",
+    "state": "New Jersey",
+    "state_code": "NJ",
+    "avg_electric_bill": 146,
+    "labor_rate_index": 1.26,
+    "local_utility_name": "PSE&G",
+    "solar_sun_hours": 4.25
+  },
+  {
+    "city_slug": "jersey-city-nj",
+    "city": "Jersey City",
+    "state": "New Jersey",
+    "state_code": "NJ",
+    "avg_electric_bill": 142,
+    "labor_rate_index": 1.34,
+    "local_utility_name": "PSE&G",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "providence-ri",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "state_code": "RI",
+    "avg_electric_bill": 168,
+    "labor_rate_index": 1.16,
+    "local_utility_name": "Rhode Island Energy",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "hartford-ct",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "state_code": "CT",
+    "avg_electric_bill": 196,
+    "labor_rate_index": 1.22,
+    "local_utility_name": "Eversource",
+    "solar_sun_hours": 4.1
+  },
+  {
+    "city_slug": "stamford-ct",
+    "city": "Stamford",
+    "state": "Connecticut",
+    "state_code": "CT",
+    "avg_electric_bill": 188,
+    "labor_rate_index": 1.3,
+    "local_utility_name": "Eversource",
+    "solar_sun_hours": 4.15
+  },
+  {
+    "city_slug": "portland-me",
+    "city": "Portland",
+    "state": "Maine",
+    "state_code": "ME",
+    "avg_electric_bill": 158,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "Central Maine Power",
+    "solar_sun_hours": 4
+  },
+  {
+    "city_slug": "manchester-nh",
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "state_code": "NH",
+    "avg_electric_bill": 162,
+    "labor_rate_index": 1.1,
+    "local_utility_name": "Eversource",
+    "solar_sun_hours": 4.05
+  },
+  {
+    "city_slug": "burlington-vt",
+    "city": "Burlington",
+    "state": "Vermont",
+    "state_code": "VT",
+    "avg_electric_bill": 128,
+    "labor_rate_index": 1.12,
+    "local_utility_name": "Burlington Electric Department",
+    "solar_sun_hours": 3.85
+  },
+  {
+    "city_slug": "des-moines-ia",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "state_code": "IA",
+    "avg_electric_bill": 124,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "MidAmerican Energy",
+    "solar_sun_hours": 4.3
+  },
+  {
+    "city_slug": "wichita-ks",
+    "city": "Wichita",
+    "state": "Kansas",
+    "state_code": "KS",
+    "avg_electric_bill": 138,
+    "labor_rate_index": 0.91,
+    "local_utility_name": "Evergy",
+    "solar_sun_hours": 5
+  },
+  {
+    "city_slug": "little-rock-ar",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "state_code": "AR",
+    "avg_electric_bill": 140,
+    "labor_rate_index": 0.88,
+    "local_utility_name": "Entergy Arkansas",
+    "solar_sun_hours": 4.7
+  },
+  {
+    "city_slug": "jackson-ms",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "state_code": "MS",
+    "avg_electric_bill": 152,
+    "labor_rate_index": 0.86,
+    "local_utility_name": "Entergy Mississippi",
+    "solar_sun_hours": 4.75
+  },
+  {
+    "city_slug": "sioux-falls-sd",
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "state_code": "SD",
+    "avg_electric_bill": 122,
+    "labor_rate_index": 0.93,
+    "local_utility_name": "Xcel Energy",
+    "solar_sun_hours": 4.55
+  },
+  {
+    "city_slug": "fargo-nd",
+    "city": "Fargo",
+    "state": "North Dakota",
+    "state_code": "ND",
+    "avg_electric_bill": 118,
+    "labor_rate_index": 0.95,
+    "local_utility_name": "Xcel Energy",
+    "solar_sun_hours": 4.2
+  },
+  {
+    "city_slug": "billings-mt",
+    "city": "Billings",
+    "state": "Montana",
+    "state_code": "MT",
+    "avg_electric_bill": 116,
+    "labor_rate_index": 0.98,
+    "local_utility_name": "NorthWestern Energy",
+    "solar_sun_hours": 4.4
+  },
+  {
+    "city_slug": "bozeman-mt",
+    "city": "Bozeman",
+    "state": "Montana",
+    "state_code": "MT",
+    "avg_electric_bill": 120,
+    "labor_rate_index": 1.08,
+    "local_utility_name": "NorthWestern Energy",
+    "solar_sun_hours": 4.3
+  },
+  {
+    "city_slug": "cheyenne-wy",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "state_code": "WY",
+    "avg_electric_bill": 112,
+    "labor_rate_index": 0.96,
+    "local_utility_name": "Black Hills Energy",
+    "solar_sun_hours": 5.2
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/cities/austin-tx",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Roof Replacement & Solar ROI in Austin, TX | Meridian Estimate",
+      "hasCanvas": false,
+      "bodyTextLen": 7206,
+      "bodyTextHash": "40a3b9505258eda7db0ddf45351deedffc3c25ba6213a3001f24713aa135ad86",
+      "bodyTextPrefix": "Skip to content M Meridian Estimate Estimator Cities Estimator/C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/city-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Roof Replacement & Solar ROI in Austin, TX | Meridian Estimate",
+      "hasCanvas": false,
+      "bodyTextLen": 7159,
+      "bodyTextHash": "28d8cfb82c4883e6e9049d8cf87bd0af8e08e59e72b6676189c80163b538a771",
+      "bodyTextPrefix": "Skip to content M Meridian Estimate Estimator Cities Estimator/C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/city-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/city-preview.json"
+}
